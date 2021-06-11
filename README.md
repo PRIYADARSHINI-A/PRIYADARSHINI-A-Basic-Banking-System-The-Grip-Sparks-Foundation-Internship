@@ -2,7 +2,7 @@
 
 Sparks Foundation Internship Project : Basic Banking System A Web Application used to transfer money between multiple users (Project contains 10 dummy users).
 
-# CREATED BY ASEEM KHANDEKAR
+# CREATED BY PRIYA DARSHINI
  
  ### Problem Statement
  To Create a simple dynamic website which has the following specs.
